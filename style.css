@@ -1,0 +1,36 @@
+body {
+    background: #111;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+header {
+    background: orange;
+    padding: 20px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.songs {
+    margin-top: 30px;
+}
+
+.song {
+    background: #222;
+    margin: 20px auto;
+    padding: 20px;
+    width: 60%;
+    border-radius: 10px;
+}
+
+.download,
+.btn {
+    background: orange;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+}
